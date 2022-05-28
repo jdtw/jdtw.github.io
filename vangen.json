@@ -11,6 +11,11 @@
       ],
       "url": "https://github.com/jdtw/tuxify",
       "main": true
+    },
+    {
+      "prefix": "commit",
+      "url": "https://github.com/jdtw/commit",
+      "main": true
     }
   ]
 }
