@@ -24,13 +24,13 @@
     },
     {
       "prefix": "private-ca",
-      "subs": [
-        "cmd/private-ca",
-        "cmd/private-ca-init",
-        "internal/ca"
-      ],
       "url": "https://github.com/jdtw/private-ca",
       "hidden": true
+    },
+    {
+      "prefix": "links",
+      "url": "https://github.com/jdtw/links",
+      "main": true
     }
   ]
 }
