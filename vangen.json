@@ -5,10 +5,6 @@
   "repositories": [
     {
       "prefix": "tuxify",
-      "subs": [
-        "cmd/tuxify",
-        "cmd/tuxify-server"
-      ],
       "url": "https://github.com/jdtw/tuxify",
       "main": true
     },
