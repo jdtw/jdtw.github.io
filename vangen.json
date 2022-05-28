@@ -21,6 +21,18 @@
       "prefix": "flood",
       "url": "https://github.com/jdtw/flood",
       "main": true
+    },
+    {
+      "prefix": "private-ca",
+      "subs": [
+        "cmd/private-ca",
+        "cmd/private-ca-init",
+        "cmd/private-ca-client",
+        "cmd/private-ca-server",
+        "internal/ca"
+      ],
+      "url": "https://github.com/jdtw/private-ca",
+      "hidden": true
     }
   ]
 }
