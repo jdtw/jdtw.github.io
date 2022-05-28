@@ -16,6 +16,11 @@
       "prefix": "commit",
       "url": "https://github.com/jdtw/commit",
       "main": true
+    },
+    {
+      "prefix": "flood",
+      "url": "https://github.com/jdtw/flood",
+      "main": true
     }
   ]
 }
