@@ -27,8 +27,6 @@
       "subs": [
         "cmd/private-ca",
         "cmd/private-ca-init",
-        "cmd/private-ca-client",
-        "cmd/private-ca-server",
         "internal/ca"
       ],
       "url": "https://github.com/jdtw/private-ca",
