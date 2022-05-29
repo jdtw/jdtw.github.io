@@ -27,6 +27,10 @@
       "prefix": "links",
       "url": "https://github.com/jdtw/links",
       "main": true
+    },
+    {
+      "prefix": "token",
+      "url": "https://github.com/jdtw/token"
     }
   ]
 }
