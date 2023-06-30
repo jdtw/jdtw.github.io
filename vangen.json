@@ -31,12 +31,6 @@
     {
       "prefix": "token",
       "url": "https://github.com/jdtw/token"
-    },
-    {
-      "prefix": "kdf",
-      "type": "git",
-      "url": "ssh://git@github.com/jdtw/kdf",
-      "hidden": true
     }
   ]
 }
