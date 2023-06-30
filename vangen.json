@@ -31,6 +31,10 @@
     {
       "prefix": "token",
       "url": "https://github.com/jdtw/token"
+    },
+    {
+      "prefix": "kdf",
+      "url": "https://github.com/jdtw/kdf"
     }
   ]
 }
